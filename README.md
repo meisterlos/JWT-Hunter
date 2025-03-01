@@ -20,16 +20,24 @@ Kurulum
 1-) git clone https://github.com/kullanici-adin/JWT-Hunter.git
 
 2-) Google Chrome'u aç ve chrome://extensions/ adresine git.
+
 3-) Geliştirici Modu’nu aç.
+
 4-) "Paketlenmemiş yükle" butonuna tıkla ve JWT-Hunter klasörünü seç.
+
 5-) Eklenti yüklendi! 🚀
+
 2️⃣ Chrome Web Mağazasına Yükleme (Gelecek Plan)
 Proje stabil hale geldiğinde Chrome Web Mağazası'na yükleme planlanmaktadır.
 
 🛠 Nasıl Kullanılır?
+
 1️⃣ Eklenti yüklendikten sonra tarayıcı araç çubuğunda simge görünecektir.
+
 2️⃣ Bir web sitesine girin ve JWT-Hunter simgesine tıklayın.
+
 3️⃣ Eklenti sayfada bulunan JWT tokenleri ve API anahtarlarını otomatik tespit eder.
+
 4️⃣ Bulunan anahtarlar, popup içinde listelenir ve JSON formatında indirilebilir.
 
 
