@@ -1,4 +1,4 @@
-JWT-Hunter 🔑🕵️‍♂️
+### JWT-Hunter 🔑🕵️‍♂️  (H3 boyutu)
 
 Bir Chrome eklentisi ile JWT tokenleri ve açık API anahtarlarını tespit edin!
 
