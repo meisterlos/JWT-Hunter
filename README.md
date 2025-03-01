@@ -31,13 +31,13 @@ Proje stabil hale geldiğinde Chrome Web Mağazası'na yükleme planlanmaktadır
 
 🛠 Nasıl Kullanılır?
 
-1️⃣ Eklenti yüklendikten sonra tarayıcı araç çubuğunda simge görünecektir.
+1️-) Eklenti yüklendikten sonra tarayıcı araç çubuğunda simge görünecektir.
 
-2️⃣ Bir web sitesine girin ve JWT-Hunter simgesine tıklayın.
+2️-) Bir web sitesine girin ve JWT-Hunter simgesine tıklayın.
 
-3️⃣ Eklenti sayfada bulunan JWT tokenleri ve API anahtarlarını otomatik tespit eder.
+3️-) Eklenti sayfada bulunan JWT tokenleri ve API anahtarlarını otomatik tespit eder.
 
-4️⃣ Bulunan anahtarlar, popup içinde listelenir ve JSON formatında indirilebilir.
+4️-) Bulunan anahtarlar, popup içinde listelenir ve JSON formatında indirilebilir.
 
 
 ⚠️ Yasal Uyarı (Disclaimer)
