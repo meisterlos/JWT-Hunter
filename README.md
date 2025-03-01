@@ -14,7 +14,6 @@ Başlıca Özellikler:
 ✔️ JSON formatında rapor indirilebilir.
 ✔️ Bug Bounty ve güvenlik araştırmacıları için idealdir.
 
-Kurulum
 1️⃣ Manuel Kurulum (Geliştirici Modu)
 
 1-) git clone https://github.com/kullanici-adin/JWT-Hunter.git
